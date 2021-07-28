@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Dark Visual Studio">
+  <!--
+  Based on Dark Visual Studio
+  Improvements are welcome
+  Public Domain, Guillermo Majano, 2021
+  -->
+  <style name="Text" foreground="#D4D4D4" background="#1E1E1E"/>
+  <style name="Extra" foreground="#90908A" background="#1E1E1E"/>
+  <style name="Selection" background="#8CDCDB"/>
+  <style name="CurrentLine" background="#3085c6"/>
+  <style name="MatchBrackets" background="#808080"/>
+  <style name="IndentLine" foreground="#858585"/>
+  <style name="VisualWhitespace" foreground="#499CB3"/>
+  <style name="Keyword" foreground="#3085C6" bold="false"/>
+  <style name="DataType" foreground="#8CDCDB" /> 
+  <style name="Decimal" foreground="#3085C6"/>
+  <style name="BaseN" foreground="#3085C6"/>
+  <style name="Float" foreground="#3085C6"/>
+  <style name="Char" foreground="#3085C6"/>
+  <style name="String" foreground="#CE9178"/>
+  <style name="Comment" foreground="#6A9955"/>
+  <style name="Alert" foreground="#ff0000"/>
+  <style name="Error" foreground="#ff0000"/>
+  <style name="Function" foreground="#D4D4D4"/>
+  <style name="RegionMarker" foreground="#D4D4D4"/>
+  <style name="Symbol" foreground="#8CDCDB"/> 
+  <style name="BuiltinFunc" foreground="#3085C6"/>
+  <style name="Predeclared" foreground="#3085c6"/>
+  <style name="FuncDecl" foreground="#D4D4D4"/>
+  <style name="Placeholder" foreground="#CE9178"/>
+  <style name="ToDo" foreground="#1E1E1E" background="#1E1E1E" bold="true"/>
+</style-scheme>
